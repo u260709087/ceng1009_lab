@@ -23,7 +23,7 @@ import math
 # circumference = 2 * math.pi * radius
 # print("Circumference: " , circumference)
 
-birth_year = int(input("Please enter the year you were born: "))
-current_year = int(2026)
-user_age = current_year - birth_year
-print("Your current age is: " , user_age)
+# birth_year = int(input("Please enter the year you were born: "))
+# current_year = int(2026)
+# user_age = current_year - birth_year
+# print("Your current age is: " , user_age)

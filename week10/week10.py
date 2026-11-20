@@ -76,8 +76,15 @@
 # def replace(s, old, new):
 #     pieces = s.split(old)
 #     return new.join(pieces)
-# s="Mississippi"
-# print(replace(s, "i", "I"))
+#
+#
+# def test(actual, expected):
+#     if actual == expected:
+#         print("PASSED!")
+#     else:
+#         print("FAILED!")
+#
+# test(replace("Mississippi", "i", "I"), "MIssIssIppI")
 
 
 # def max(nums):
